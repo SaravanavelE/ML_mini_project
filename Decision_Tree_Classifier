@@ -1,0 +1,30 @@
+# Decision Tree Classifier
+
+## Overview
+This project demonstrates the implementation of a Decision Tree Classifier using scikit-learn. The model is trained on a sample dataset to classify target variables based on input features.
+
+## Features
+- Handles both categorical and numerical data.
+- Visualizes the decision tree structure.
+- Calculates model accuracy, precision, and recall.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- scikit-learn
+- pandas
+- matplotlib
+
+## Files
+- **DecisionTreeClassifier.ipynb**: Contains the implementation of the decision tree model.
+- **dataset.csv**: The dataset used for training and testing the model.
+
+## How to Run
+1. Clone the repository and navigate to the `1_Decision_Tree/` directory.
+2. Open the `DecisionTreeClassifier.ipynb` file in Jupyter Notebook.
+3. Run the notebook cells sequentially.
+
+## Example Output
+- Confusion matrix visualization
+- Classification accuracy
+- Tree visualization using Graphviz or Matplotlib
